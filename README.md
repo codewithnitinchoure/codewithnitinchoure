@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Nitin 👋
 
-<!--
-**codewithnitinchoure/codewithnitinchoure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analytics Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about Data Analytics and enjoy working with data to find meaningful insights and build practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- Python
+- SQL & MySQL
+- Power BI
+- Excel
+- Data Analysis
+- Machine Learning
+
+### Projects
+
+**Lost & Found Management System**
+- Developed a database-based system to manage lost and found items.
+- Built using MySQL and SQL.
+- Designed relational database structures using Primary Key and Foreign Key.
+
+### Internship
+
+**Machine Learning & Data Science Virtual Internship**
+- Successfully completed an 8-week internship at EduSkills.
+- Gained practical exposure to Machine Learning and Data Science concepts.
+
+### Connect With Me
+
+📧 [Email Me](mailto:nitinchoure2006@gmail.com)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/nitin-choure-a402aa372/)
