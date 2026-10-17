@@ -1,4 +1,4 @@
-# Hi, I'm Nitin 👋
+# Hi, I'm Nitin 
 
 ### Data Analytics Enthusiast
 
